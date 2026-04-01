@@ -1,0 +1,16 @@
+pyproject.toml
+app/__init__.py
+app/main.py
+app/api/v1/notes.py
+app/core/config.py
+app/core/database.py
+app/models/note.py
+app/schemas/note.py
+app/services/note_service.py
+app/tests/__init__.py
+app/tests/conftest.py
+app/tests/test_notes.py
+notes_api.egg-info/PKG-INFO
+notes_api.egg-info/SOURCES.txt
+notes_api.egg-info/dependency_links.txt
+notes_api.egg-info/top_level.txt
