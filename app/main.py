@@ -19,4 +19,4 @@ app.include_router(notes_router, prefix="/api/v1/notes", tags=["Notes"])
 
 @app.get("/")
 def root():
-    return {"message": "Notes API is running"}
+    return {"message": "Notes API-v1 is running"}
