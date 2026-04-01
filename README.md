@@ -28,5 +28,3 @@ Includes **automated testing, CI/CD with GitHub Actions, and Docker image deploy
 - **Testing**: Pytest
 
 ---
-
-## 📂 Project Structure
